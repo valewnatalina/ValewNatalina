@@ -5,7 +5,7 @@
 Me chamo Natalina Oliveira, tenho 22 anos e sou natural do estado de São Paulo. Atualmente, estou cursando Engenharia Civil na UFCA. Sou apaixonada por tecnologia e tenho muito interesse na parte de hardware e software.
 
 <p align="left">
-    <a href="https://instagram.com/sounatallina">
+    <a href="https://instagram.com/sounataliina">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
