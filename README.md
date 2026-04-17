@@ -11,8 +11,7 @@ Me chamo Natalina Oliveira, tenho 22 anos e sou natural do estado de São Paulo.
             title="Me siga no Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"
         />
-   </a>
-   <p align="left">
+    </a>
     <a href="https://www.linkedin.com/in/natalina-oliveira-4428b71bb/">
         <img 
             alt="LinkedIn" 
